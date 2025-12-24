@@ -21,7 +21,7 @@ Se vitórias for entre 91 e 100= Lendário<br>
 Se vitórias for maior ou igual a 101 = Imortal<br>
 <h3>Saída</h3>
 <p>Ao final deve ser exibida uma mensagem:</p>
-"O herói tem de saldo de **{saldoVitorias}** e está no nível **{nivel}**."
+"O herói tem saldo de **{saldoVitorias}** e está no nível **{nivel}**."
 <h2>🚀 Tecnologia</h2>
 <div>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
